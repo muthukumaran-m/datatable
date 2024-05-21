@@ -1,0 +1,13 @@
+div.action-buttons {
+    white-space: nowrap;
+}
+
+div.action-buttons span {
+    display: inline-block;
+    min-width: 18px;
+    cursor: pointer;
+}
+
+.save{
+    display: none;
+}

@@ -1,0 +1,19 @@
+{
+    "data":[
+        {
+            "id":1,
+            "firstname": "Mukun",
+            "lastname": "dev"
+        },
+        {
+            "id":2,
+            "firstname": "Kums",
+            "lastname": "QA"
+        },
+        {
+            "id":3,
+            "firstname": "Var",
+            "lastname": "val"
+        }
+    ]
+}
